@@ -1,0 +1,17 @@
+Gradient descent:
+https://www.youtube.com/watch?v=gzrQvzYEvYc
+
+Linear regression:
+https://medium.com/@leisyridley/linear-regression-intuition-172b52758321
+https://towardsdatascience.com/linear-regression-derivation-d362ea3884c2?
+https://medium.com/@leisyridley/implementation-of-linear-regression-8a6ff13dc727
+
+Multivariate linear regression using gradient descent algo:
+https://www.youtube.com/watch?v=xrPZbHrxrWo
+
+Basics of classification usecase:
+https://www.youtube.com/watch?v=6Lo4jeuZfkI
+
+Logistic regression:
+https://www.youtube.com/watch?v=vpjYsVKj_Y0
+
