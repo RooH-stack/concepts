@@ -15,10 +15,16 @@ https://www.youtube.com/watch?v=6Lo4jeuZfkI
 Polynomial regression:
 derivation: https://www.youtube.com/watch?v=JV-agdxZ74g
 https://www.youtube.com/watch?v=ro5ftxuD6is
-https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/
+https://www.analyticsvidhya.com/blog/2020/03/polynomial-regression-python/  
+
+Regularization:
+https://www.youtube.com/watch?v=9lRv01HDU0s
+https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
 
 Logistic regression:
 https://www.youtube.com/watch?v=vpjYsVKj_Y0
+
+
 
 Adding autocomplete feature to jupyter notebook:
 https://www.youtube.com/watch?v=09NhhScYNoQ
